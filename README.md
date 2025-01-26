@@ -1,4 +1,4 @@
-# E-Court: General Certificate Court (GCC)
+# E-Court: General Certificate Court (GCC v2)
 
 This is a part of E-court. management system.
 
